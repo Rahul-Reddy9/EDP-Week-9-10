@@ -1,0 +1,38 @@
+# Outer Git Repository Ignore Rules
+
+# Preserve existing Week 8 project as an independent repo / untouched directory
+EDP-Internship-Week-8/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+.venv*/
+env/
+venv/
+ENV/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter & IDE
+.ipynb_checkpoints
+.vscode/
+.idea/
+
+# OS specific
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary outputs & logs
+*.log
+scratch/
+tmp/
