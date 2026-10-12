@@ -196,4 +196,4 @@ tests/test_validators.py::TestValidators::test_10_sample_template_integrity PASS
 ## 🔒 Preservation of Week 8 Project
 - `EDP-Internship-Week-8/` is isolated via the outer `.gitignore`.
 - No Week 8 files or model artifacts have been modified, retrained, or deleted.
-- Neither commits nor pushes have been performed.
+- The Week 9–10 deliverables have been committed and pushed to the `EDP-Week-9-10` GitHub repository. The Week 8 project remains excluded from this repository and   has been preserved separately.
